@@ -6,9 +6,8 @@
 
 
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+I'm a
+🌐 Web development enthusiast with a deep passion for crafting dynamic and user-centric digital experiences. From mastering the art of HTML, CSS, and JavaScript to exploring the intricacies of front-end and back-end development, I'm on a mission to turn ideas into beautifully functional websites. The web's endless potential and the ever-evolving landscape of technology fuel my curiosity and drive for continuous learning. Whether it's designing elegant user interfaces or diving into server-side logic, I'm dedicated to honing my skills and contributing to the exciting world of web development. Let's collaborate and code together to shape the future of the web! 🚀💻
 
 
 ![Visitor Count](https://profile-counter.glitch.me/DeveloperPrathamesh/count.svg)
